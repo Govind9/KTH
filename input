@@ -1,0 +1,5 @@
+input x
+output x
+end
+x = y
+x < y
